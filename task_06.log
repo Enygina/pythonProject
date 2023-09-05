@@ -1,0 +1,3 @@
+INFO:__main__:File(name='task1', extention='py', is_dir=False, parent_dir='.')
+INFO:__main__:File(name='task_06', extention='log', is_dir=False, parent_dir='.')
+INFO:__main__:File(name='task_2', extention='py', is_dir=False, parent_dir='.')
